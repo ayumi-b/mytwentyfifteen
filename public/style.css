@@ -1,0 +1,35 @@
+h1 {
+	color: blue;
+}
+
+.main {
+	background-color: #F1F1F1;
+}
+
+.post {
+	background-color: #FFF;
+}
+
+.post_head-img {
+	background-image: url("http://40.media.tumblr.com/c10a5e0202cf37de45159761f7da8511/tumblr_mwsgehgVvx1siofs7o1_1280.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: 0 45%;
+	height: 400px;
+}
+
+.post_footer ul {
+	text-align: center;
+	padding: 0;
+
+}
+.post_footer li {
+	list-style-type: none;
+	display: inline;
+	padding: 0 1%;
+}
+
+.post_footer {
+	background-color: #F7F7F7;
+	padding: 20px 0;
+}
